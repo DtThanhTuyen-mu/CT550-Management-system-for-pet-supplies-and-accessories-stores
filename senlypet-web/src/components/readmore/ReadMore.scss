@@ -1,0 +1,24 @@
+body, button {
+//   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+//   font-size: 12px;
+}
+
+.read-more {
+  overflow: hidden;
+}
+
+.read-more__button {
+  display: inline;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+  padding: 0;  
+  margin: 0;
+  font-size: 12px;
+  cursor: pointer;
+  color: #007f8c;
+}
+
+.read-more__button:hover {
+  text-decoration: underline;
+}

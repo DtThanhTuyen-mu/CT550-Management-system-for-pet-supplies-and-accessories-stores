@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100007943829",
+    "project_id": "senlypetapp",
+    "storage_bucket": "senlypetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100007943829:android:268bea3d019c072df5c59c",
+        "android_client_info": {
+          "package_name": "com.senlypetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100007943829-fgni00effp367a9s8kmfl04ochvoo782.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senlypetapp",
+            "certificate_hash": "17d6d607f1405863c6dae99f71ae443eb4228093"
+          }
+        },
+        {
+          "client_id": "100007943829-uk1gh99v5krtg0duh28sd6cotl5aare4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPG4lpbHkWbuixKJMLVNB9500FiVNd__s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100007943829-uk1gh99v5krtg0duh28sd6cotl5aare4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
